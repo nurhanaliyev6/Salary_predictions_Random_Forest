@@ -2,5 +2,5 @@
 In Hitters Baseball Data, I did salary predictio
 
 
-Data Description below.
+Data Description:
 https://www.kaggle.com/code/nihandincer/hitters-baseball-data/data 
